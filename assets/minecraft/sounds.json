@@ -1,0 +1,472 @@
+{
+	"wiiparty.other.final_challenge" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "other/final_challenge",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.other.island" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "other/island",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.other.main_menu" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "other/main_menu",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.other.results" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "other/results",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.other.rules" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "other/rules",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.other.theme_song" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "other/theme_song",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.other.victory" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "other/victory",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.other.volcano" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "other/volcano",
+				"stream": true
+			}
+		]
+	},
+
+
+	"wiiparty.games.back_attack" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/back_attack",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.balloon_buggies" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/balloon_buggies",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.barrel_daredevil" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/barrel_daredevil",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.basket_bonanza" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/basket_bonanza",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.channel_changers" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/channel_changers",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.chin_up_champ" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/chin_up_champ",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.commuter_count" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/commuter_count",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.cry_babies" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/cry_babies",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.delivery_duel" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/delivery_duel",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.feathered_frenzy" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/feathered_frenzy",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.flag_footrace" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/flag_footrace",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.flag_fracas" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/flag_fracas",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.flycycle_team" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/flycycle_team",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.flying_fruits" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/flying_fruits",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.follow_your_face" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/follow_your_face",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.friendly_face_off" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/friendly_face_off",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.fruit_focus" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/fruit_focus",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.hide_and_peek" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/hide_and_peek",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.jumbo_jump" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/jumbo_jump",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.lucky_launch" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/lucky_launch",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.maze_daze" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/maze_daze",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.moon_landing" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/moon_landing",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.pearl_plunder" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/pearl_plunder",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.pop_coaster" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/pop_coaster",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.popgun_posse" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/popgun_posse",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.poppin_pilots" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/poppin_pilots",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.ram_jam" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/ram_jam",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.risky_railroad" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/risky_railroad",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.robot_factory" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/robot_factory",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.roll_to_the_goal" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/roll_to_the_goal",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.rope_sling" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/rope_sling",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.saucer_snap" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/saucer_snap",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.shifty_gifts" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/shifty_gifts",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.shutterpup" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/shutterpup",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.smile_snap" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/smile_snap",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.space_brawl" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/space_brawl",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.spotlight_fright" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/spotlight_fright",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.spring_ringers" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+				{
+				"name": "games/spring_ringers",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.stop_watchers" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/stop_watchers",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.teamwork_temple" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/teamwork_temple",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.tippy_traverse" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/tippy_traverse",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.tropical_punch" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/tropical_punch",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.walk_off" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/walk_off",
+				"stream": true
+			}
+		]
+	},
+	"wiiparty.games.zombie_tag" : {
+		"subtitle": "Music by Ryo Nagamatsu",
+		"sounds":[
+			{
+				"name": "games/zombie_tag",
+				"stream": true
+			}
+		]
+	}
+}
