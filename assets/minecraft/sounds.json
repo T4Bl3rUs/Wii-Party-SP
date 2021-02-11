@@ -1,4 +1,22 @@
 {
+	"minecraft.block.wooden_door.open" : {
+		"replace": true,
+		"sounds":[
+			{
+				"name": "block/wooden_door/open",
+				"stream": false
+			}
+		]
+	},
+	"minecraft.block.wooden_door.close" : {
+		"replace": true,
+		"sounds":[
+			{
+				"name": "block/wooden_door/close",
+				"stream": false
+			}
+		]
+	},
 	"wiiparty.other.final_challenge" : {
 		"subtitle": "Music by Ryo Nagamatsu",
 		"sounds":[
